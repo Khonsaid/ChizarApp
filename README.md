@@ -44,7 +44,7 @@ The app is built using modern mobile development technologies:
 ---
 
 ## 📥 Download
-You can download the APK file from here [here](https://github.com/Khonsaid/ChizarApp/blob/main/ChizarApp.apk)
+You can download the APK file from here [here](https://github.com/Khonsaid/ChizarApp/raw/main/ChizarApp.apk)
 
 ---
 
